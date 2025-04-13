@@ -1,1 +1,4 @@
 #test git attributes for lfs
+
+
+$ git lfs track "*.psd"
